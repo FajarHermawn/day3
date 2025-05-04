@@ -1,6 +1,3 @@
-# day3
-dumbways
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
